@@ -1,2 +1,0 @@
-
-        initialBalance += deposits[month];
