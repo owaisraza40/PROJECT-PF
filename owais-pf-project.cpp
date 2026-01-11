@@ -52,9 +52,6 @@ int main (){
     cout << "   SAVINGS ACCOUNT MANAGEMENT SYSTEM   " << endl;
     cout << "=========================================" << endl;
     
-    cout << "Name       : Muhammad Owais Raza" << endl;
-    cout << "Department : Data Science (BSDS)" << endl;
-    cout << "ID No      : 2540218" << endl;
 
     cout << "Please provide the following details:\n" << endl;
     cout << "Annual Tax Rate (%)        : ";
