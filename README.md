@@ -9,7 +9,15 @@ The program simulates a savings account over a user-defined number of months and
 ## 🧑‍🎓 Student Information
 - **Name:** Muhammad Owais Raza  
 - **Department:** BS Data Science  
-- **Student ID:** 2540218  
+- **Student ID:** 2540218
+- 
+- **Name:** AbdulHai Adnan
+- **Department:** BS Data Science  
+- **Student ID:** 2540189
+- 
+- **Name:** Abeer hammad 
+- **Department:** BS Data Science  
+- **Student ID:** 2540007
 
 ---
 
